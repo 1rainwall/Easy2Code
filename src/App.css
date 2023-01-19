@@ -1,0 +1,11 @@
+.App {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(
+    90deg,
+    rgb(0, 0, 0) 0%,
+    rgb(0, 0, 0) 100%
+  );
+  color: #fafafa;
+  font-family: sans-serif;
+  overflow-y: hidden;
+}
